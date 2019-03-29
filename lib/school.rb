@@ -16,7 +16,7 @@ class School
   end
   
   def add_student(student_name, grade)
-    grade = []
+    student_name = []
   end  
   
 end
